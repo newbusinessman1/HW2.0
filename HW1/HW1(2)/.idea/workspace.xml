@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1043fce-a26a-4390-8cb3-2031bacd571b" name="Changes" comment="" />
+    <list default="true" id="c1043fce-a26a-4390-8cb3-2031bacd571b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../HW(PythonAdvanced)/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW(PythonAdvanced)/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="Flask Main" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -30,6 +37,8 @@
     &quot;Flask server.HW1(2).executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,6 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1754907016742</updated>
       <workItem from="1754907017788" duration="2366000" />
+      <workItem from="1754964255224" duration="599000" />
+      <workItem from="1755255613515" duration="384000" />
     </task>
     <servers />
   </component>
